@@ -2,4 +2,4 @@
 Repo for all pywebio applications
 
 open ai key used
-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
+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
